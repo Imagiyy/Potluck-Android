@@ -10,7 +10,7 @@ Official distribution repository for **Potluck** Android APK releases. This repo
 
 Get the latest signed APK directly from GitHub Releases:
 
-- **[Download Latest APK (v1.0.4)](https://github.com/Imagiyy/Potluck-Android/releases/latest/download/app-release.apk)**
+- **[Download Latest APK (v1.0.5)](https://github.com/Imagiyy/Potluck-Android/releases/latest/download/app-release.apk)**
 - **[All Releases & Changelog](https://github.com/Imagiyy/Potluck-Android/releases)**
 
 ---
